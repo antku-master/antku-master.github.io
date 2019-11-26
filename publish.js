@@ -6,7 +6,7 @@ var newestUrls = [
   	'https://antku2.xyz'
 ];
 var otherUrls = [
-    'https://antku.github.io',
+    'https://antku-master.github.io',
     'https://antku.site',
 ];
 var foreverUrls = [
