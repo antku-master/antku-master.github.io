@@ -2,12 +2,11 @@ var emails = [
     'antku.net@yandex.com'
 ];
 var newestUrls = [
-    'https://antku1.xyz',
-  	'https://antku2.xyz'
+    'https://antku3.xyz',
+  	'https://antku3.xyz'
 ];
 var otherUrls = [
     'https://antku-master.github.io',
-    'https://antku.site',
 ];
 var foreverUrls = [
     'https://antku.net',
